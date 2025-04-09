@@ -1,0 +1,82 @@
+[
+    {
+      "assessment_name": "SHL Java Developer Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/java-developer-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "40 minutes",
+      "test_type": "Technical"
+    },
+    {
+      "assessment_name": "SHL Full Stack Developer Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/full-stack-developer-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "60 minutes",
+      "test_type": "Technical"
+    },
+    {
+      "assessment_name": "SHL Cognitive Ability Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/cognitive-ability-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "30 minutes",
+      "test_type": "Cognitive"
+    },
+    {
+      "assessment_name": "SHL Personality Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/personality-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "45 minutes",
+      "test_type": "Personality"
+    },
+    {
+      "assessment_name": "SHL Data Scientist Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/data-scientist-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "90 minutes",
+      "test_type": "Technical"
+    },
+    {
+      "assessment_name": "SHL Product Manager Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/product-manager-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "60 minutes",
+      "test_type": "Business"
+    },
+    {
+      "assessment_name": "SHL Marketing Manager Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/marketing-manager-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "75 minutes",
+      "test_type": "Business"
+    },
+    {
+      "assessment_name": "SHL Sales Manager Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/sales-manager-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "60 minutes",
+      "test_type": "Business"
+    },
+    {
+      "assessment_name": "SHL IT Project Manager Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/it-project-manager-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "90 minutes",
+      "test_type": "Technical"
+    },
+    {
+      "assessment_name": "SHL Business Analyst Test",
+      "assessment_url": "https://www.shl.com/solutions/products/product-catalog/business-analyst-test/",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "75 minutes",
+      "test_type": "Business"
+    }
+  ]
