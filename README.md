@@ -14,4 +14,4 @@ The API endpoint is located at [https://shl-assessment-api.onrender.com/recommen
 The frontend is located at [https://syed-shoab.github.io/shl-assessment-recommendation](https://syed-shoab.github.io/shl-assessment-recommendation).
 
 ## Approach
-For more information about the project's approach and implementation, please see the summary document() file.
+For more information about the project's approach and implementation, please see the summary document(https://docs.google.com/document/d/1GAg2GEuzaUJRoRM6pJA_Ih0sZiJkFhJAhW2N3-_7IAI/edit?usp=sharing ) file.
